@@ -1,3 +1,5 @@
+#Wilbel Benitez
+#22-SISN-2-064
 import gradio as gr
 import whisper
 from deep_translator import GoogleTranslator 
