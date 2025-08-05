@@ -1,0 +1,4 @@
+gradio
+whisper
+gTTS
+deep_translator
